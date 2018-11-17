@@ -1,4 +1,6 @@
 git*
-*gradle*
-build*
-*idea*
+.classpath
+.metadata
+.project
+.settings
+target
